@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rashmi Kavindya</h1>
 <h3 align="center">Passionate Cybersecurity University Student | Securing the Digital World👩‍💻</h3>
-<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krdesilva&label=Profile%20views&color=0e75b6&style=flat" alt="krdesilva" /> </p>
 
